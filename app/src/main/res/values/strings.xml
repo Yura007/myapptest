@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movies IMDb </string>
+    <string name="action_settings">Settings</string>
+    <string name="movies">Movies list</string>
+    <string name="details">Movie details</string>
+    <string name="reverse">Reverse order by years</string>
+
+    <string name="sort_by_release_year">Sort by release year</string>
+    <string name="sort_from_new_to_old">Sort from new to old</string>
+    <string name="take_picture">Take Picture to scan</string>
+    <string name="detector">Cant set up the detector!</string>
+    <string name="no_scan">Nothing Found to scan</string>
+    <string name="failed_load">Failed to load Image</string>
+</resources>
